@@ -1,0 +1,26 @@
+.sendButton {
+  background-color: rgb(2, 123, 255);
+  border-radius: 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 80px;
+}
+
+.sendButton:active {
+  transform: scale(0.9);
+}
+
+.home {
+  margin-top: 5px;
+  background-color: #d13640;
+  height: 30px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 80px;
+}
+.home:active {
+  transform: scale(0.9);
+}
